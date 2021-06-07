@@ -20,7 +20,7 @@
         {
             "type": "highlight-box",
             "textColor": "white",
-            "background": "#51a554",
+            "background": "#ffb3ff",
             "comps": [
                 {
                     "text": "TITTLE GOES HERE!",
@@ -149,8 +149,8 @@
             "size": 16
         },
         {
-            "text": "https://www.persil.com/uk",
-            "link": "https://www.persil.com/uk",
+            "text": "https://www.yourcompany.com/",
+            "link": "https://www.yourcompany.com/",
             "type": "link",
             "size": 16,
             "class": "semi-bold",
