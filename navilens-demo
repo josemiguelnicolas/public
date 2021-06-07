@@ -1,0 +1,159 @@
+[
+
+        {
+            "text": "Product Name Tittle",
+            "type": "h1",
+            "size": 22,
+            "font": "semi-bold"
+        },
+        {
+            "type": "image-fw",
+            "src": "https://images.pexels.com/photos/2533266/pexels-photo-2533266.jpeg?auto=compress&cs=tinysrgb&h=750&w=1260",
+            "alt": "Your product picture"
+        },
+        {
+            "text": "Net Content 1539g ℮",
+            "type": "h2",
+            "size": 18,
+            "font": "italic"
+        },
+        {
+            "type": "highlight-box",
+            "textColor": "white",
+            "background": "#ffb3ff",
+            "comps": [
+                {
+                    "text": "TITTLE GOES HERE!",
+                    "type": "h2",
+                    "size": 19,
+                    "font": "semi-bold"
+                },
+                {
+                    "text": "Lorem ipsum dolor sit amet",
+                    "type": "p",
+                    "size": 16
+                },
+                {
+                    "text": "Donec nec justo eget felis facilisis fermentum. Aliquam porttitor mauris sit amet orci. Aenean dignissim pellentesque felis.",
+                    "type": "p",
+                    "size": 16
+                },
+                {
+                    "text": "Integer vitae libero ac risus egestas placerat",
+                    "type": "p",
+                    "font": "semi-bold italic",
+                    "size": 16
+                }
+
+            ]
+        },
+        {
+            "text": "Ingredients",
+            "type": "h2",
+            "size": 19,
+            "font": "semi-bold",
+            "color": "#ff001b"
+        },
+        {
+            "text": "15-30%: Anionic surfactants. 5-15%: nonionic surfactants, Phosphonates. <5% Perfume, Soap, Polycarbosylates, Optical brighteners, Enzymes, Alpha-Isomethyl Ionone, Citronellol, Geraniol, Linalool, Methylisothiazolinone, Octylisothiazolinone",
+            "type": "p",
+            "size": 16
+        },
+        {
+            "text": "Features",
+            "type": "h2",
+            "size": 19,
+            "font": "semi-bold",
+            "color": "#ff001b"
+        },
+        {
+            "text": "Phasellus ultrices nulla quis nibh. Quisque a lectus. Donec consectetuer ligula vulputate sem tristique cursus. Nam nulla quam, gravida non, commodo a, sodales sit amet, nisi.",
+            "type": "p",
+            "size": 16
+        },
+        {
+            "text": "Praesent dapibus, neque id cursus faucibus, tortor neque egestas auguae, eu vulputate magna eros eu erat. Aliquam erat volutpat. Nam dui mi, tincidunt quis, accumsan porttitor, facilisis luctus, metus.",
+            "type": "p",
+            "size": 16
+        },
+        {
+            "text": "WARNING",
+            "type": "h2",
+            "size": 20,
+            "font": "semi-bold",
+            "color": "#ff001b"
+        },
+        {
+            "text": "Causes skin irritation. Causes serious eye irritation. <b>CONTAINS</b>: Tetrahydrolinalool, Methylisothiazolinone, Octylisothiazolinone. May cause an allergic skin reaction.",
+            "type": "p",
+            "size": 16
+        },
+        {
+            "text": "Safety Warning",
+            "type": "h2",
+            "size": 20,
+            "font": "semi-bold",
+            "color": "#ff001b"
+        },
+        {
+            "text": "Keep out of reach of children. Wear protective gloves.<br><b>IF IN EYES:</b> Rinse cautiously with water for several minutes. Remove contact lenses, if present and easy to do. Continue rinsing. If eye irritation persists: Get medical advice/attention.<br><b>IF ON SKIN:</b> Wash with plenty of water. If skin irritation or a rash occurs: Get medical advice/attention.<br><b>UFI: 8VCV-66R0-CUD0-0RQH</b>",
+            "type": "p",
+            "size": 16
+        },
+        {
+            "text": "How to use",
+            "type": "h2",
+            "size": 20,
+            "font": "semi-bold",
+            "color": "#ff001b"
+        },
+        {
+            "text": "Pour 27ml of liquid into your washing machine tray for standard 4-5kg loads or when washing in soft/medium water. Use 40ml for larger loads, or when washing in hard water. Persils recommends washing at lower temperatures, such as 30ºC. For the best results, add Comfort Intense fabric conditioner to the washing machine drawer before washing as usual.",
+            "type": "p",
+            "size": 16
+        },
+        {
+            "text": "Preparation and Usage",
+            "type": "h2",
+            "size": 20,
+            "font": "semi-bold",
+            "color": "#ff001b"
+        },
+        {
+            "text": "Check care labels first. Wash dark colours separately. Check colour-fastness before pre-treating with neat liquid. Do not use on silk and wool. Do not wash flame-resistant fabrics above 50ºC. Stain Eraser Ball not recommended for combined washed dryers. Unilever recommends to wash at low temperatures such as 30ºC. The Stain Eraser Ball is not a toy.<br><b>Keep away from children.</b>",
+            "type": "p",
+            "size": 16
+        },
+        {
+            "type": "figures",
+            "images": [
+                {
+                    "path": "https://www.charter2020.eu/images/modernised-appealing.svg",
+                    "alt": "A charter member of Clean Right EU Logo"
+                }, {
+                    "path": "https://shorebox.co.uk/wp-content/uploads/2019/08/Widely-Recycling-Recycling-Symbols-Explained-Shorebox.jpg",
+                    "alt": "Widely Recycled Logo"
+                }
+            ]
+        },
+        {
+            "text": "Manufacturer Address",
+            "type": "h2",
+            "size": 20,
+            "font": "semi-bold",
+            "color": "#ff001b"
+        },
+        {
+            "text": "Unilever UK Ltd,<br>Springfield Drive,<br>Leatherhead,<br>KT22 7GR,<br>Unilever Ireland Ltd,<br>20 Riverwalk",
+            "type": "p",
+            "size": 16
+        },
+        {
+            "text": "https://www.yourcompany.com/",
+            "link": "https://www.yourcompany.com/",
+            "type": "link",
+            "size": 16,
+            "class": "semi-bold",
+            "color": "#000"
+        }
+    ]
