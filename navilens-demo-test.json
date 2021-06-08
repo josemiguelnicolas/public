@@ -1,0 +1,147 @@
+[
+
+        {
+            "text": "Product Name Big tittle goes here",
+            "type": "h1",
+            "size": 22,
+            "font": "semi-bold"
+        },
+        {
+            "type": "image-fw",
+            "src": "https://images.pexels.com/photos/2533266/pexels-photo-2533266.jpeg?auto=compress&cs=tinysrgb&h=750&w=1260",
+            "alt": "Your product picture"
+        },
+        {
+            "text": "Net Content 1539g ℮",
+            "type": "h2",
+            "size": 18,
+            "font": "italic"
+        },
+        {
+            "type": "highlight-box",
+            "textColor": "white",
+            "background": "#f90000",
+            "comps": [
+                {
+                    "text": "TITTLE GOES HERE!",
+                    "type": "h2",
+                    "size": 19,
+                    "font": "semi-bold"
+                },
+                {
+                    "text": "Lorem ipsum dolor sit amet",
+                    "type": "p",
+                    "size": 16
+                },
+                {
+                    "text": "Donec nec justo eget felis facilisis fermentum. Aliquam porttitor mauris sit amet orci. Aenean dignissim pellentesque felis.",
+                    "type": "p",
+                    "size": 16
+                },
+                {
+                    "text": "Integer vitae libero ac risus egestas placerat",
+                    "type": "p",
+                    "font": "semi-bold italic",
+                    "size": 16
+                }
+
+            ]
+        },
+        {
+            "text": "Ingredients",
+            "type": "h2",
+            "size": 19,
+            "font": "semi-bold",
+            "color": "#f90000"
+        },
+        {
+            "text": "Water (Aqua), Fragrance (Parfum), Sweet Almond (Prunus Amygdalus Dulcis) Oil",
+            "type": "p",
+            "size": 16
+        },
+        {
+            "text": "Feature List",
+            "type": "h2",
+            "size": 19,
+            "font": "semi-bold",
+            "color": "#f90000"
+        },
+        {
+            "text": "This is a sample paragraph of features, you can copy it and add as much as you need",
+            "type": "p",
+            "size": 16
+        },
+        {
+            "text": "Praesent dapibus, neque id cursus faucibus, tortor neque egestas auguae, eu vulputate magna eros eu erat. Aliquam erat volutpat. Nam dui mi, tincidunt quis, accumsan porttitor, facilisis luctus, metus.",
+            "type": "p",
+            "size": 16
+        },
+        {
+            "text": "WARNING",
+            "type": "h2",
+            "size": 20,
+            "font": "semi-bold",
+            "color": "#f90000"
+        },
+        {
+            "text": "Causes skin irritation. Causes serious eye irritation. <b>CONTAINS</b>: Tetrahydrolinalool, Methylisothiazolinone, Octylisothiazolinone. May cause an allergic skin reaction.",
+            "type": "p",
+            "size": 16
+        },
+        {
+            "text": "Safety Warning",
+            "type": "h2",
+            "size": 20,
+            "font": "semi-bold",
+            "color": "#f90000"
+        },
+        {
+            "text": " A simple paragraph indicates your safety warning <br><b>IF IN EYES:</b> Rinse cautiously with water for several minutes. Remove contact lenses, if present and easy to do. Continue rinsing. If eye irritation persists: Get medical advice/attention.<br></b>",
+            "type": "p",
+            "size": 16
+        },
+        {
+            "text": "How to use",
+            "type": "h2",
+            "size": 20,
+            "font": "semi-bold",
+            "color": "#f90000"
+        },
+        {
+            "text": "Simple instruction about how to use the product e.g Pour 27ml of liquid into your washing machine tray for standard 4-5kg loads or when washing in soft/medium water. Use 40ml for larger loads, or when washing in hard water. Persils recommends washing at lower temperatures, such as 30ºC. For the best results, add Comfort Intense fabric conditioner to the washing machine drawer before washing as usual.",
+            "type": "p",
+            "size": 16
+        },
+        {
+            "type": "figures",
+            "images": [
+                {
+                    "path": "https://upload.wikimedia.org/wikipedia/commons/7/7b/Recycling_symbol.svg",
+                    "alt": "Some icon can be here"
+                }, {
+                    "path": "https://commons.wikimedia.org/wiki/File:12M_PAO_Symbol.svg",
+                    "alt": "Another icon can be here"
+                }
+            ]
+        },
+        {
+            "text": "Manufacturer Address",
+            "type": "h2",
+            "size": 20,
+            "font": "semi-bold",
+            "color": "#f90000"
+        },
+        {
+            "text": "Your Company,<br>Type your direction here: 222,<br>Your City,<br>KT22 7GR,<br>Your Country",
+            "type": "p",
+            "size": 16
+        },
+        {
+            "text": "https://www.yourcompany.com/",
+            "link": "https://www.yourcompany.com/",
+            "type": "link",
+            "size": 16,
+            "class": "semi-bold",
+            "color": "#000"
+        }
+    ]
